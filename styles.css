@@ -1,0 +1,35 @@
+body{
+    align-items: center;
+    background-image: url('https://wallpapers.com/images/featured/beautiful-night-i9neq2ed7blcu74r.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+div{
+    
+    text-align: center;
+    width: 350px;
+    margin: auto;
+    margin-top: 13%;
+    background: rgba(255, 255, 255, 0.1); /* Transparent background */
+    backdrop-filter: blur(5px); /* Blur effect */
+    border-radius: 10px;
+    border: none;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+input{
+    border-radius: 10px;
+    border-color: white;
+}
+
+#btn{
+    border-radius: 10px;
+    background-color: rgb(187, 94, 187);
+    color: purple;
+}
+
